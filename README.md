@@ -1,6 +1,6 @@
 # Minecraft 1.21.7 组件生成器
 
-一个基于 Python 和 Tkinter 的图形界面工具，用于生成 Minecraft 1.21.5 意思版本的物品组件指令。
+一个基于 Python 和 Tkinter 的图形界面工具，用于生成 Minecraft 1.21.5 以上版本的物品组件指令。
 
 ![示例截图](screenshot.png)
 
