@@ -1,0 +1,2 @@
+# minecraft_component_generator
+适用于1.21.5及以上的Minecraft组件生成器
